@@ -1,4 +1,6 @@
 # Reading-List-2025-AI
+## Project Description
+Reading-List-2025-AI is a curated list of resources dedicated to the latest advancements in AI for the year 2025. This repository collates informative articles, research papers, and projects that focus on AI agents and their applications. It serves as a comprehensive guide for anyone interested in exploring state-of-the-art AI technologies and methodologies.
 
 ## Agents
 1. Agents - Chip Huyen : https://huyenchip.com/2025/01/07/agents.html
