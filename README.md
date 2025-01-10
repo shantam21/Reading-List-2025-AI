@@ -6,3 +6,4 @@ Reading-List-2025-AI is a curated list of resources dedicated to the latest adva
 1. Agents - Chip Huyen : https://huyenchip.com/2025/01/07/agents.html
 2. Search-o1: Agentic Search-Enhanced Large Reasoning Models - https://github.com/sunnynexus/Search-o1
 3. Agent Laboratory: Using LLM Agents as Research Assistants - https://github.com/SamuelSchmidgall/AgentLaboratory
+4. [Why LLMs Won’t Replace Programmers: A Reality Check](https://www.mlwhiz.com/p/why-llms-wont-replace-programmers?r=alcnk&utm_medium=ios&triedRedirect=true)
